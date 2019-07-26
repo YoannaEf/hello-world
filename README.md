@@ -1,6 +1,5 @@
 # hello-world
-Guide - create a repository
 
-Hello there!
+Hi!
 
 I am Yoanna. I am from Bulgaria.
